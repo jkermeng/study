@@ -1,0 +1,4 @@
+本地文件打好代码后
+add添加到github本地通道
+commit提交命令
+push 到github仓库
